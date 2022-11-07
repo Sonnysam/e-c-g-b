@@ -1,0 +1,460 @@
+2022/10/20-16:18:31.339 cfc Reusing MANIFEST C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/20-16:18:31.354 cfc Recovering log #620
+2022/10/20-16:18:31.906 cfc Reusing old log C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000620.log 
+2022/10/20-16:18:31.906 cfc Delete type=2 #606
+2022/10/20-16:18:31.906 cfc Delete type=2 #607
+2022/10/20-16:18:31.906 cfc Delete type=2 #608
+2022/10/20-16:18:31.906 cfc Delete type=2 #609
+2022/10/20-16:18:31.906 cfc Delete type=2 #610
+2022/10/20-16:18:31.907 cfc Delete type=2 #611
+2022/10/20-16:18:31.907 cfc Delete type=2 #613
+2022/10/20-16:18:31.907 cfc Delete type=2 #623
+2022/10/20-16:18:31.907 cfc Delete type=2 #624
+2022/10/20-16:18:31.907 cfc Delete type=2 #625
+2022/10/20-16:18:31.907 cfc Delete type=2 #626
+2022/10/20-16:18:31.907 cfc Delete type=2 #627
+2022/10/20-16:18:32.881 cfc Level-0 table #625: started
+2022/10/20-16:18:33.058 cfc Level-0 table #625: 1638772 bytes OK
+2022/10/20-16:18:33.062 cfc Delete type=0 #620
+2022/10/20-16:18:35.652 cfc Compacting 1@0 + 1@1 files
+2022/10/20-16:18:36.808 cfc Generated table #626@0: 58999 keys, 1615242 bytes
+2022/10/20-16:18:36.808 cfc Compacted 1@0 + 1@1 files => 1615242 bytes
+2022/10/20-16:18:36.863 cfc compacted to: files[ 0 1 8 0 0 0 0 ]
+2022/10/20-16:18:36.863 cfc Delete type=2 #621
+2022/10/20-16:18:36.864 cfc Delete type=2 #625
+2022/10/20-16:18:44.594 3f7c Compacting 1@1 + 8@2 files
+2022/10/20-16:18:45.338 3f7c Generated table #627@1: 33842 keys, 2200051 bytes
+2022/10/20-16:18:45.820 3f7c Generated table #628@1: 21847 keys, 2254688 bytes
+2022/10/20-16:18:46.412 3f7c Generated table #629@1: 21497 keys, 2242286 bytes
+2022/10/20-16:18:46.992 3f7c Generated table #630@1: 21594 keys, 2239101 bytes
+2022/10/20-16:18:47.425 3f7c Generated table #631@1: 74842 keys, 2250604 bytes
+2022/10/20-16:18:47.497 3f7c Generated table #632@1: 11382 keys, 348670 bytes
+2022/10/20-16:18:47.497 3f7c Compacted 1@1 + 8@2 files => 11535400 bytes
+2022/10/20-16:18:47.500 3f7c compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/10/20-16:18:52.842 3f7c Level-0 table #634: started
+2022/10/20-16:18:52.922 3f7c Level-0 table #634: 708146 bytes OK
+2022/10/20-16:18:52.927 3f7c Delete type=2 #603
+2022/10/20-16:18:52.927 3f7c Delete type=2 #614
+2022/10/20-16:18:52.927 3f7c Delete type=2 #615
+2022/10/20-16:18:52.927 3f7c Delete type=2 #616
+2022/10/20-16:18:52.928 3f7c Delete type=2 #617
+2022/10/20-16:18:52.928 3f7c Delete type=2 #618
+2022/10/20-16:18:52.928 3f7c Delete type=2 #619
+2022/10/20-16:18:52.928 3f7c Delete type=2 #622
+2022/10/20-16:18:52.928 3f7c Delete type=0 #624
+2022/10/20-16:18:52.928 3f7c Delete type=2 #626
+2022/10/20-16:18:52.945 3c28 Manual compaction at level-0 from '\x00b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:18:52.946 3c28 Manual compaction at level-1 from '\x00b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00c\x00\x00\x00' @ 0 : 0; will stop at '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 3798863 : 1
+2022/10/20-16:18:52.946 3c28 Compacting 1@1 + 6@2 files
+2022/10/20-16:18:53.399 3c28 Generated table #635@1: 31215 keys, 2225341 bytes
+2022/10/20-16:18:53.848 3c28 Generated table #636@1: 21304 keys, 2245182 bytes
+2022/10/20-16:18:53.895 3c28 Level-0 table #639: started
+2022/10/20-16:18:54.020 3c28 Level-0 table #639: 1390450 bytes OK
+2022/10/20-16:18:54.023 3c28 Delete type=0 #633
+2022/10/20-16:18:54.415 3c28 Generated table #637@1: 21506 keys, 2240479 bytes
+2022/10/20-16:18:54.415 3c28 Level-0 table #641: started
+2022/10/20-16:18:54.546 46dc Current memtable full; waiting...
+2022/10/20-16:18:54.609 3c28 Level-0 table #641: 1588459 bytes OK
+2022/10/20-16:18:54.633 3c28 Delete type=0 #638
+2022/10/20-16:18:54.638 3c28 Level-0 table #644: started
+2022/10/20-16:18:54.931 46dc Current memtable full; waiting...
+2022/10/20-16:18:54.941 3c28 Level-0 table #644: 1595419 bytes OK
+2022/10/20-16:18:54.947 3c28 Delete type=0 #640
+2022/10/20-16:18:54.949 3c28 Level-0 table #646: started
+2022/10/20-16:18:55.209 3c28 Level-0 table #646: 1591968 bytes OK
+2022/10/20-16:18:55.220 3c28 Delete type=0 #643
+2022/10/20-16:18:55.288 3c28 Level-0 table #648: started
+2022/10/20-16:18:55.630 46dc Current memtable full; waiting...
+2022/10/20-16:18:55.686 3c28 Level-0 table #648: 1589832 bytes OK
+2022/10/20-16:18:55.720 3c28 Delete type=0 #645
+2022/10/20-16:18:55.722 3c28 Level-0 table #650: started
+2022/10/20-16:18:55.892 3c28 Level-0 table #650: 1591476 bytes OK
+2022/10/20-16:18:55.898 3c28 Delete type=0 #647
+2022/10/20-16:18:56.171 3c28 Generated table #642@1: 21597 keys, 2239009 bytes
+2022/10/20-16:18:56.171 3c28 Level-0 table #652: started
+2022/10/20-16:18:56.292 3c28 Level-0 table #652: 1582668 bytes OK
+2022/10/20-16:18:56.298 3c28 Delete type=0 #649
+2022/10/20-16:18:56.532 3c28 Level-0 table #655: started
+2022/10/20-16:18:56.785 3c28 Level-0 table #655: 1583085 bytes OK
+2022/10/20-16:18:56.792 46dc Current memtable full; waiting...
+2022/10/20-16:18:56.824 3c28 Delete type=0 #651
+2022/10/20-16:18:56.843 3c28 Level-0 table #657: started
+2022/10/20-16:18:57.109 46dc Current memtable full; waiting...
+2022/10/20-16:18:57.236 3c28 Level-0 table #657: 1587505 bytes OK
+2022/10/20-16:18:57.244 3c28 Delete type=0 #654
+2022/10/20-16:18:57.246 3c28 Level-0 table #659: started
+2022/10/20-16:18:57.445 3c28 Level-0 table #659: 1552896 bytes OK
+2022/10/20-16:18:57.451 3c28 Delete type=0 #656
+2022/10/20-16:18:57.690 3c28 Generated table #653@1: 79514 keys, 2087261 bytes
+2022/10/20-16:18:57.690 3c28 Compacted 1@1 + 6@2 files => 11037272 bytes
+2022/10/20-16:18:57.694 3c28 compacted to: files[ 10 0 5 0 0 0 0 ]
+2022/10/20-16:18:57.695 3f7c Compacting 10@0 + 0@1 files
+2022/10/20-16:18:58.105 3f7c Generated table #660@0: 20451 keys, 2151495 bytes
+2022/10/20-16:18:58.543 3f7c Generated table #661@0: 19632 keys, 2150463 bytes
+2022/10/20-16:18:58.894 3f7c Level-0 table #664: started
+2022/10/20-16:18:59.031 3f7c Level-0 table #664: 1626689 bytes OK
+2022/10/20-16:18:59.037 3f7c Delete type=0 #658
+2022/10/20-16:18:59.081 3f7c Generated table #662@0: 19509 keys, 2149444 bytes
+2022/10/20-16:18:59.637 3f7c Generated table #665@0: 29725 keys, 2163680 bytes
+2022/10/20-16:19:00.452 3f7c Generated table #666@0: 27790 keys, 2270182 bytes
+2022/10/20-16:19:00.452 3f7c Level-0 table #668: started
+2022/10/20-16:19:00.616 3f7c Level-0 table #668: 1526041 bytes OK
+2022/10/20-16:19:00.622 3f7c Delete type=2 #634
+2022/10/20-16:19:00.622 3f7c Delete type=0 #663
+2022/10/20-16:19:01.164 3f7c Generated table #669@0: 23336 keys, 2250978 bytes
+2022/10/20-16:19:01.740 3f7c Generated table #670@0: 23494 keys, 2249548 bytes
+2022/10/20-16:19:01.880 3f7c Generated table #671@0: 3444 keys, 257317 bytes
+2022/10/20-16:19:01.880 3f7c Compacted 10@0 + 0@1 files => 15643107 bytes
+2022/10/20-16:19:01.898 3f7c compacted to: files[ 2 8 5 0 0 0 0 ]
+2022/10/20-16:19:01.899 3f7c Delete type=2 #639
+2022/10/20-16:19:01.899 3f7c Delete type=2 #641
+2022/10/20-16:19:01.899 3f7c Delete type=2 #644
+2022/10/20-16:19:01.899 3f7c Delete type=2 #646
+2022/10/20-16:19:01.899 3f7c Delete type=2 #648
+2022/10/20-16:19:01.899 3f7c Delete type=2 #650
+2022/10/20-16:19:01.899 3f7c Delete type=2 #652
+2022/10/20-16:19:01.899 3f7c Delete type=2 #655
+2022/10/20-16:19:01.899 3f7c Delete type=2 #657
+2022/10/20-16:19:01.899 3f7c Delete type=2 #659
+2022/10/20-16:19:01.912 3f7c Manual compaction at level-1 from '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 3798863 : 1 .. '\x00c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:01.912 3f7c Compacting 1@1 + 1@2 files
+2022/10/20-16:19:01.944 3f7c Level-0 table #674: started
+2022/10/20-16:19:02.020 3f7c Level-0 table #674: 20557 bytes OK
+2022/10/20-16:19:02.031 3f7c Delete type=2 #627
+2022/10/20-16:19:02.032 3f7c Delete type=2 #628
+2022/10/20-16:19:02.032 3f7c Delete type=2 #629
+2022/10/20-16:19:02.032 3f7c Delete type=2 #630
+2022/10/20-16:19:02.032 3f7c Delete type=2 #631
+2022/10/20-16:19:02.032 3f7c Delete type=2 #632
+2022/10/20-16:19:02.033 3f7c Delete type=0 #667
+2022/10/20-16:19:02.381 3f7c Generated table #672@1: 20481 keys, 2151936 bytes
+2022/10/20-16:19:02.678 3f7c Generated table #675@1: 31183 keys, 2225878 bytes
+2022/10/20-16:19:02.678 3f7c Compacted 1@1 + 1@2 files => 4377814 bytes
+2022/10/20-16:19:02.682 3f7c compacted to: files[ 3 7 6 0 0 0 0 ]
+2022/10/20-16:19:02.684 3f7c Manual compaction at level-0 from '\x00a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x01 \x03\x00@\x10&\xfe>xB\x00\x03\x00\x00\x00\x00\x00\xd0\xb1@' @ 4041870 : 0
+2022/10/20-16:19:02.684 3f7c Compacting 3@0 + 7@1 files
+2022/10/20-16:19:03.353 3f7c Generated table #676@0: 74275 keys, 2216699 bytes
+2022/10/20-16:19:03.694 3f7c Generated table #677@0: 19613 keys, 2149357 bytes
+2022/10/20-16:19:04.344 3f7c Generated table #678@0: 19496 keys, 2150123 bytes
+2022/10/20-16:19:04.894 3f7c Generated table #679@0: 34205 keys, 2178706 bytes
+2022/10/20-16:19:05.688 3f7c Generated table #680@0: 23843 keys, 2265213 bytes
+2022/10/20-16:19:06.442 3f7c Generated table #681@0: 23351 keys, 2251717 bytes
+2022/10/20-16:19:07.161 3f7c Generated table #682@0: 23621 keys, 2253447 bytes
+2022/10/20-16:19:08.095 3f7c Generated table #683@0: 73132 keys, 1196618 bytes
+2022/10/20-16:19:08.095 3f7c Compacted 3@0 + 7@1 files => 16661880 bytes
+2022/10/20-16:19:08.178 3f7c compacted to: files[ 0 8 6 0 0 0 0 ]
+2022/10/20-16:19:08.179 3f7c Delete type=2 #674
+2022/10/20-16:19:08.184 38f0 Compacting 1@1 + 2@2 files
+2022/10/20-16:19:09.080 38f0 Generated table #684@1: 74932 keys, 2216988 bytes
+2022/10/20-16:19:09.686 38f0 Generated table #685@1: 19725 keys, 2150024 bytes
+2022/10/20-16:19:10.041 38f0 Generated table #686@1: 31153 keys, 2222418 bytes
+2022/10/20-16:19:10.041 38f0 Compacted 1@1 + 2@2 files => 6589430 bytes
+2022/10/20-16:19:10.045 38f0 compacted to: files[ 0 7 7 0 0 0 0 ]
+2022/10/20-16:19:10.045 38f0 Delete type=2 #672
+2022/10/20-16:19:10.046 38f0 Delete type=2 #675
+2022/10/20-16:19:10.046 38f0 Delete type=2 #676
+2022/10/20-16:19:10.100 38f0 Manual compaction at level-0 from '\x00`\x01 \x03\x00@\x10&\xfe>xB\x00\x03\x00\x00\x00\x00\x00\xd0\xb1@' @ 4041870 : 0 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:10.103 38f0 Moved #677 to level-2 2149357 bytes OK: files[ 0 6 8 0 0 0 0 ]
+2022/10/20-16:19:10.103 38f0 Manual compaction at level-1 from '\x00a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at '\x00g\x00\x00\x05' @ 4111899 : 1
+2022/10/20-16:19:10.103 38f0 Compacting 1@1 + 1@2 files
+2022/10/20-16:19:10.822 38f0 Generated table #687@1: 6404 keys, 308200 bytes
+2022/10/20-16:19:10.822 38f0 Compacted 1@1 + 1@2 files => 308200 bytes
+2022/10/20-16:19:10.826 38f0 compacted to: files[ 0 5 8 0 0 0 0 ]
+2022/10/20-16:19:10.826 38f0 Delete type=2 #683
+2022/10/20-16:19:10.830 38f0 Moved #678 to level-2 2150123 bytes OK: files[ 0 4 9 0 0 0 0 ]
+2022/10/20-16:19:10.830 3c28 Manual compaction at level-1 from '\x00g\x00\x00\x05' @ 4111899 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:15.213 38f0 Level-0 table #689: started
+2022/10/20-16:19:15.371 38f0 Level-0 table #689: 988725 bytes OK
+2022/10/20-16:19:15.375 38f0 Delete type=2 #635
+2022/10/20-16:19:15.375 38f0 Delete type=2 #653
+2022/10/20-16:19:15.375 38f0 Delete type=2 #660
+2022/10/20-16:19:15.375 38f0 Delete type=2 #661
+2022/10/20-16:19:15.375 38f0 Delete type=2 #662
+2022/10/20-16:19:15.375 38f0 Delete type=2 #664
+2022/10/20-16:19:15.375 38f0 Delete type=2 #665
+2022/10/20-16:19:15.375 38f0 Delete type=2 #666
+2022/10/20-16:19:15.375 38f0 Delete type=2 #668
+2022/10/20-16:19:15.376 38f0 Delete type=2 #669
+2022/10/20-16:19:15.376 38f0 Delete type=2 #670
+2022/10/20-16:19:15.376 38f0 Delete type=2 #671
+2022/10/20-16:19:15.376 38f0 Delete type=0 #673
+2022/10/20-16:19:16.535 cfc Level-0 table #691: started
+2022/10/20-16:19:16.571 cfc Level-0 table #691: 382332 bytes OK
+2022/10/20-16:19:16.575 cfc Delete type=0 #688
+2022/10/20-16:19:16.576 cfc Manual compaction at level-0 from '\x00e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at '\x00j.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4231598 : 1
+2022/10/20-16:19:16.576 cfc Compacting 2@0 + 4@1 files
+2022/10/20-16:19:18.166 cfc Generated table #692@0: 157801 keys, 2387384 bytes
+2022/10/20-16:19:18.542 cfc Generated table #693@0: 23278 keys, 2252351 bytes
+2022/10/20-16:19:19.112 cfc Generated table #694@0: 23394 keys, 2248714 bytes
+2022/10/20-16:19:19.489 cfc Generated table #695@0: 19328 keys, 1364226 bytes
+2022/10/20-16:19:19.489 cfc Compacted 2@0 + 4@1 files => 8252675 bytes
+2022/10/20-16:19:19.493 cfc compacted to: files[ 0 4 9 0 0 0 0 ]
+2022/10/20-16:19:19.494 cfc Delete type=2 #691
+2022/10/20-16:19:19.495 cfc Manual compaction at level-0 from '\x00j.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4231598 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:19.495 cfc Manual compaction at level-1 from '\x00e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at '\x00j.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4231598 : 1
+2022/10/20-16:19:19.495 cfc Compacting 1@1 + 2@2 files
+2022/10/20-16:19:19.835 cfc Generated table #696@1: 10884 keys, 1060225 bytes
+2022/10/20-16:19:19.835 cfc Compacted 1@1 + 2@2 files => 1060225 bytes
+2022/10/20-16:19:19.841 cfc compacted to: files[ 0 3 8 0 0 0 0 ]
+2022/10/20-16:19:19.842 cfc Delete type=2 #695
+2022/10/20-16:19:19.843 cfc Manual compaction at level-1 from '\x00j.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4231598 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:19.846 38f0 Level-0 table #698: started
+2022/10/20-16:19:19.864 38f0 Level-0 table #698: 776 bytes OK
+2022/10/20-16:19:19.869 38f0 Delete type=2 #642
+2022/10/20-16:19:19.869 38f0 Delete type=2 #679
+2022/10/20-16:19:19.869 38f0 Delete type=2 #680
+2022/10/20-16:19:19.870 38f0 Delete type=2 #681
+2022/10/20-16:19:19.870 38f0 Delete type=2 #682
+2022/10/20-16:19:19.870 38f0 Delete type=2 #687
+2022/10/20-16:19:19.870 38f0 Delete type=2 #689
+2022/10/20-16:19:19.870 38f0 Delete type=0 #690
+2022/10/20-16:19:19.875 38f0 Manual compaction at level-0 from '\x00d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at '\x00d\x01\x1f\x01S\x00[\x00"\x00d\x00e\x00l\x00e\x00t\x00e\x00A\x00d\x00d\x00O\x00n\x00s\x00"\x00,\x00"\x007\x003\x007\x00A\x00C\x002\x002\x004\x00B\x006\x008\x000\x005\x004\x005\x00A\x00C\x00C\x00D\x00E\x00D\x00A\x00D\x005\x006\x003\x005\x009\x005\x009\x00D\x00A\x006\x007\x009\x000\x00C\x00A\x000\x005\x007\x003\x002\x00B\x00A\x00D\x00B\x008\x000\x00A\x000\x008\x005\x008\x00B\x001\x001\x00C\x00E\x008\x00A\x000\x00F\x004\x00"\x00]\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4275746 : 0
+2022/10/20-16:19:19.875 38f0 Compacting 1@0 + 3@1 files
+2022/10/20-16:19:20.909 38f0 Generated table #699@0: 157799 keys, 2387514 bytes
+2022/10/20-16:19:21.264 38f0 Generated table #700@0: 23278 keys, 2252351 bytes
+2022/10/20-16:19:21.611 38f0 Generated table #701@0: 23394 keys, 2248714 bytes
+2022/10/20-16:19:21.628 38f0 Generated table #702@0: 17 keys, 711 bytes
+2022/10/20-16:19:21.628 38f0 Compacted 1@0 + 3@1 files => 6889290 bytes
+2022/10/20-16:19:21.631 38f0 compacted to: files[ 0 4 8 0 0 0 0 ]
+2022/10/20-16:19:21.632 38f0 Delete type=2 #698
+2022/10/20-16:19:21.632 38f0 Manual compaction at level-0 from '\x00d\x01\x1f\x01S\x00[\x00"\x00d\x00e\x00l\x00e\x00t\x00e\x00A\x00d\x00d\x00O\x00n\x00s\x00"\x00,\x00"\x007\x003\x007\x00A\x00C\x002\x002\x004\x00B\x006\x008\x000\x005\x004\x005\x00A\x00C\x00C\x00D\x00E\x00D\x00A\x00D\x005\x006\x003\x005\x009\x005\x009\x00D\x00A\x006\x007\x009\x000\x00C\x00A\x000\x005\x007\x003\x002\x00B\x00A\x00D\x00B\x008\x000\x00A\x000\x008\x005\x008\x00B\x001\x001\x00C\x00E\x008\x00A\x000\x00F\x004\x00"\x00]\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4275746 : 0 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:21.633 38f0 Manual compaction at level-1 from '\x00d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at '\x00d\x01\x1f\x01S\x00[\x00"\x00d\x00e\x00l\x00e\x00t\x00e\x00A\x00d\x00d\x00O\x00n\x00s\x00"\x00,\x00"\x007\x003\x007\x00A\x00C\x002\x002\x004\x00B\x006\x008\x000\x005\x004\x005\x00A\x00C\x00C\x00D\x00E\x00D\x00A\x00D\x005\x006\x003\x005\x009\x005\x009\x00D\x00A\x006\x007\x009\x000\x00C\x00A\x000\x005\x007\x003\x002\x00B\x00A\x00D\x00B\x008\x000\x00A\x000\x008\x005\x008\x00B\x001\x001\x00C\x00E\x008\x00A\x000\x00F\x004\x00"\x00]\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4275746 : 0
+2022/10/20-16:19:21.633 38f0 Compacting 1@1 + 1@2 files
+2022/10/20-16:19:21.777 38f0 Generated table #703@1: 10867 keys, 1059497 bytes
+2022/10/20-16:19:21.777 38f0 Compacted 1@1 + 1@2 files => 1059497 bytes
+2022/10/20-16:19:21.781 38f0 compacted to: files[ 0 3 8 0 0 0 0 ]
+2022/10/20-16:19:21.781 38f0 Delete type=2 #702
+2022/10/20-16:19:21.783 38f0 Manual compaction at level-1 from '\x00d\x01\x1f\x01S\x00[\x00"\x00d\x00e\x00l\x00e\x00t\x00e\x00A\x00d\x00d\x00O\x00n\x00s\x00"\x00,\x00"\x007\x003\x007\x00A\x00C\x002\x002\x004\x00B\x006\x008\x000\x005\x004\x005\x00A\x00C\x00C\x00D\x00E\x00D\x00A\x00D\x005\x006\x003\x005\x009\x005\x009\x00D\x00A\x006\x007\x009\x000\x00C\x00A\x000\x005\x007\x003\x002\x00B\x00A\x00D\x00B\x008\x000\x00A\x000\x008\x005\x008\x00B\x001\x001\x00C\x00E\x008\x00A\x000\x00F\x004\x00"\x00]\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4275746 : 0 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:21.785 cfc Level-0 table #705: started
+2022/10/20-16:19:21.816 cfc Level-0 table #705: 556 bytes OK
+2022/10/20-16:19:21.821 cfc Delete type=2 #692
+2022/10/20-16:19:21.821 cfc Delete type=2 #693
+2022/10/20-16:19:21.821 cfc Delete type=2 #694
+2022/10/20-16:19:21.821 cfc Delete type=2 #696
+2022/10/20-16:19:21.821 cfc Delete type=0 #697
+2022/10/20-16:19:21.825 cfc Manual compaction at level-0 from '\x00f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4275775 : 0
+2022/10/20-16:19:21.825 cfc Compacting 1@0 + 3@1 files
+2022/10/20-16:19:22.825 cfc Generated table #706@0: 157797 keys, 2387217 bytes
+2022/10/20-16:19:23.320 cfc Generated table #707@0: 23278 keys, 2252351 bytes
+2022/10/20-16:19:23.744 cfc Generated table #708@0: 23394 keys, 2248714 bytes
+2022/10/20-16:19:23.767 cfc Generated table #709@0: 25 keys, 499 bytes
+2022/10/20-16:19:23.767 cfc Compacted 1@0 + 3@1 files => 6888781 bytes
+2022/10/20-16:19:23.770 cfc compacted to: files[ 0 4 8 0 0 0 0 ]
+2022/10/20-16:19:23.771 cfc Delete type=2 #705
+2022/10/20-16:19:23.771 cfc Manual compaction at level-0 from '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4275775 : 0 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:23.772 cfc Manual compaction at level-1 from '\x00f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4275775 : 0
+2022/10/20-16:19:23.772 cfc Compacting 1@1 + 1@2 files
+2022/10/20-16:19:23.969 cfc Generated table #710@1: 10842 keys, 1058952 bytes
+2022/10/20-16:19:23.969 cfc Compacted 1@1 + 1@2 files => 1058952 bytes
+2022/10/20-16:19:23.972 cfc compacted to: files[ 0 3 8 0 0 0 0 ]
+2022/10/20-16:19:23.973 cfc Delete type=2 #709
+2022/10/20-16:19:23.973 cfc Manual compaction at level-1 from '\x00f\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4275775 : 0 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:24.277 cfc Level-0 table #712: started
+2022/10/20-16:19:24.328 cfc Level-0 table #712: 382702 bytes OK
+2022/10/20-16:19:24.332 cfc Delete type=2 #699
+2022/10/20-16:19:24.332 cfc Delete type=2 #700
+2022/10/20-16:19:24.332 cfc Delete type=2 #701
+2022/10/20-16:19:24.332 cfc Delete type=2 #703
+2022/10/20-16:19:24.332 cfc Delete type=0 #704
+2022/10/20-16:19:24.337 cfc Manual compaction at level-0 from '\x00_\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at '\x00_.\x02\x01\x17\x00W\x00A\x00U\x00n\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00C\x00h\x00a\x00t\x00s\x00S\x00e\x00t\x00t\x00i\x00n\x00g' @ 4289886 : 0
+2022/10/20-16:19:24.337 cfc Compacting 1@0 + 1@1 files
+2022/10/20-16:19:25.591 cfc Generated table #713@0: 168074 keys, 2391719 bytes
+2022/10/20-16:19:25.651 cfc Generated table #714@0: 3828 keys, 378608 bytes
+2022/10/20-16:19:25.651 cfc Compacted 1@0 + 1@1 files => 2770327 bytes
+2022/10/20-16:19:25.654 cfc compacted to: files[ 0 4 8 0 0 0 0 ]
+2022/10/20-16:19:25.655 cfc Delete type=2 #712
+2022/10/20-16:19:25.656 cfc Manual compaction at level-0 from '\x00_.\x02\x01\x17\x00W\x00A\x00U\x00n\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00C\x00h\x00a\x00t\x00s\x00S\x00e\x00t\x00t\x00i\x00n\x00g' @ 4289886 : 0 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:25.656 cfc Manual compaction at level-1 from '\x00_\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x01\x1f\x01\xf2\x07\x00O\x00-\x00o\x00_\x00 \x002\x000\x002\x002\x00-\x001\x000\x00-\x001\x009\x00 \x001\x000\x00:\x005\x004\x00:\x005\x009\x00.\x005\x008\x004\x00:\x00[\x00e\x00r\x00r\x00o\x00r\x00]\x00[\x00s\x00e\x00n\x00d\x00l\x00o\x00g\x00s\x00]\x00[\x00u\x00n\x00c\x00a\x00u\x00g\x00h\x00t\x00]\x00 \x00T\x00y\x00p\x00e\x00E\x00r\x00r\x00o\x00r\x00:\x00 \x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00.\x00g\x00e\x00t\x00L\x00i\x00n\x00k\x00s\x00 \x00i\x00s\x00 \x00n\x00o\x00t\x00 \x00a\x00 \x00f\x00u\x00n\x00c\x00t\x00i\x00o\x00n\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00O\x00b\x00j\x00e\x00c\x00t\x00.\x00w\x00i\x00n\x00d\x00o\x00w\x00.\x00W\x00W\x00e\x00b\x00J\x00S\x00.\x00g\x00e\x00t\x00M\x00e\x00s\x00s\x00a\x00g\x00e\x00M\x00o\x00d\x00e\x00l\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x009\x005\x00:\x003\x000\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x00:\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x008\x006\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x005\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00h\x00a\x00n\x00d\x00l\x00e\x00M\x00o\x00d\x00e\x00l\x00E\x00v\x00e\x00n\x00t\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x007\x004\x004\x001\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x002\x001\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x03\x00\x00\x00\x00\x00\xf8\x93@' @ 3837612 : 0
+2022/10/20-16:19:25.656 cfc Compacting 1@1 + 6@2 files
+2022/10/20-16:19:27.366 cfc Generated table #715@1: 21055 keys, 2073745 bytes
+2022/10/20-16:19:27.366 cfc Compacted 1@1 + 6@2 files => 2073745 bytes
+2022/10/20-16:19:27.405 cfc compacted to: files[ 0 3 3 0 0 0 0 ]
+2022/10/20-16:19:27.406 cfc Delete type=2 #713
+2022/10/20-16:19:27.407 cfc Manual compaction at level-1 from '\x00`\x01\x1f\x01\xf2\x07\x00O\x00-\x00o\x00_\x00 \x002\x000\x002\x002\x00-\x001\x000\x00-\x001\x009\x00 \x001\x000\x00:\x005\x004\x00:\x005\x009\x00.\x005\x008\x004\x00:\x00[\x00e\x00r\x00r\x00o\x00r\x00]\x00[\x00s\x00e\x00n\x00d\x00l\x00o\x00g\x00s\x00]\x00[\x00u\x00n\x00c\x00a\x00u\x00g\x00h\x00t\x00]\x00 \x00T\x00y\x00p\x00e\x00E\x00r\x00r\x00o\x00r\x00:\x00 \x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00.\x00g\x00e\x00t\x00L\x00i\x00n\x00k\x00s\x00 \x00i\x00s\x00 \x00n\x00o\x00t\x00 \x00a\x00 \x00f\x00u\x00n\x00c\x00t\x00i\x00o\x00n\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00O\x00b\x00j\x00e\x00c\x00t\x00.\x00w\x00i\x00n\x00d\x00o\x00w\x00.\x00W\x00W\x00e\x00b\x00J\x00S\x00.\x00g\x00e\x00t\x00M\x00e\x00s\x00s\x00a\x00g\x00e\x00M\x00o\x00d\x00e\x00l\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x009\x005\x00:\x003\x000\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x00:\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x008\x006\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x005\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00h\x00a\x00n\x00d\x00l\x00e\x00M\x00o\x00d\x00e\x00l\x00E\x00v\x00e\x00n\x00t\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x007\x004\x004\x001\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x002\x001\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x03\x00\x00\x00\x00\x00\xf8\x93@' @ 3837612 : 0 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:27.410 cfc Level-0 table #717: started
+2022/10/20-16:19:27.783 cfc Level-0 table #717: 12807 bytes OK
+2022/10/20-16:19:27.892 cfc Delete type=2 #636
+2022/10/20-16:19:27.892 cfc Delete type=2 #677
+2022/10/20-16:19:27.892 cfc Delete type=2 #678
+2022/10/20-16:19:27.893 cfc Delete type=2 #684
+2022/10/20-16:19:27.893 cfc Delete type=2 #685
+2022/10/20-16:19:27.893 cfc Delete type=2 #686
+2022/10/20-16:19:27.893 cfc Delete type=2 #706
+2022/10/20-16:19:27.893 cfc Delete type=0 #711
+2022/10/20-16:19:27.902 cfc Manual compaction at level-0 from '\x00c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at '\x00h\x05\x1f\x03\x00\x00\x00\x00\x00\x00"@\x00\x01\x01\x001' @ 4289987 : 1
+2022/10/20-16:19:27.902 cfc Compacting 1@0 + 3@1 files
+2022/10/20-16:19:28.225 cfc Generated table #718@0: 23197 keys, 2252038 bytes
+2022/10/20-16:19:28.590 cfc Generated table #719@0: 23377 keys, 2250404 bytes
+2022/10/20-16:19:28.671 cfc Generated table #720@0: 4047 keys, 390237 bytes
+2022/10/20-16:19:28.671 cfc Compacted 1@0 + 3@1 files => 4892679 bytes
+2022/10/20-16:19:28.674 cfc compacted to: files[ 0 3 3 0 0 0 0 ]
+2022/10/20-16:19:28.675 cfc Delete type=2 #717
+2022/10/20-16:19:28.675 cfc Manual compaction at level-0 from '\x00h\x05\x1f\x03\x00\x00\x00\x00\x00\x00"@\x00\x01\x01\x001' @ 4289987 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:28.676 cfc Manual compaction at level-1 from '\x00c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at '\x00h\x05\x1f\x03\x00\x00\x00\x00\x00\x00"@\x00\x01\x01\x001' @ 4289987 : 1
+2022/10/20-16:19:28.676 cfc Compacting 1@1 + 1@2 files
+2022/10/20-16:19:28.835 cfc Generated table #721@1: 6841 keys, 653229 bytes
+2022/10/20-16:19:28.835 cfc Compacted 1@1 + 1@2 files => 653229 bytes
+2022/10/20-16:19:28.838 cfc compacted to: files[ 0 2 3 0 0 0 0 ]
+2022/10/20-16:19:28.839 cfc Delete type=2 #720
+2022/10/20-16:19:28.839 cfc Manual compaction at level-1 from '\x00h\x05\x1f\x03\x00\x00\x00\x00\x00\x00"@\x00\x01\x01\x001' @ 4289987 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:29.276 38f0 Level-0 table #723: started
+2022/10/20-16:19:29.286 38f0 Level-0 table #723: 36914 bytes OK
+2022/10/20-16:19:29.290 38f0 Delete type=2 #707
+2022/10/20-16:19:29.290 38f0 Delete type=2 #708
+2022/10/20-16:19:29.290 38f0 Delete type=2 #710
+2022/10/20-16:19:29.290 38f0 Delete type=2 #714
+2022/10/20-16:19:29.290 38f0 Delete type=0 #716
+2022/10/20-16:19:29.297 38f0 Manual compaction at level-0 from '\x00`\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 4290366 : 0
+2022/10/20-16:19:29.297 38f0 Compacting 1@0 + 2@1 files
+2022/10/20-16:19:29.683 38f0 Generated table #724@0: 23383 keys, 2252217 bytes
+2022/10/20-16:19:30.307 38f0 Generated table #725@0: 23389 keys, 2250718 bytes
+2022/10/20-16:19:30.358 38f0 Generated table #726@0: 126 keys, 35900 bytes
+2022/10/20-16:19:30.358 38f0 Compacted 1@0 + 2@1 files => 4538835 bytes
+2022/10/20-16:19:30.363 38f0 compacted to: files[ 0 3 3 0 0 0 0 ]
+2022/10/20-16:19:30.363 38f0 Delete type=2 #723
+2022/10/20-16:19:30.364 38f0 Manual compaction at level-0 from '\x00`\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 4290366 : 0 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:30.365 38f0 Manual compaction at level-1 from '\x00`\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x01\x1f\x01\xf2\x07\x00O\x00-\x00o\x00_\x00 \x002\x000\x002\x002\x00-\x001\x000\x00-\x001\x009\x00 \x001\x000\x00:\x005\x005\x00:\x001\x002\x00.\x007\x007\x008\x00:\x00[\x00e\x00r\x00r\x00o\x00r\x00]\x00[\x00s\x00e\x00n\x00d\x00l\x00o\x00g\x00s\x00]\x00[\x00u\x00n\x00c\x00a\x00u\x00g\x00h\x00t\x00]\x00 \x00T\x00y\x00p\x00e\x00E\x00r\x00r\x00o\x00r\x00:\x00 \x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00.\x00g\x00e\x00t\x00L\x00i\x00n\x00k\x00s\x00 \x00i\x00s\x00 \x00n\x00o\x00t\x00 \x00a\x00 \x00f\x00u\x00n\x00c\x00t\x00i\x00o\x00n\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00O\x00b\x00j\x00e\x00c\x00t\x00.\x00w\x00i\x00n\x00d\x00o\x00w\x00.\x00W\x00W\x00e\x00b\x00J\x00S\x00.\x00g\x00e\x00t\x00M\x00e\x00s\x00s\x00a\x00g\x00e\x00M\x00o\x00d\x00e\x00l\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x009\x005\x00:\x003\x000\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x00:\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x008\x006\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x005\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00h\x00a\x00n\x00d\x00l\x00e\x00M\x00o\x00d\x00e\x00l\x00E\x00v\x00e\x00n\x00t\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x007\x004\x004\x001\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x002\x001\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x03\x00\x00\x00\x00\x00'\xb1@' @ 3883830 : 0
+2022/10/20-16:19:30.365 38f0 Compacting 1@1 + 2@2 files
+2022/10/20-16:19:31.127 38f0 Generated table #727@1: 19300 keys, 1883462 bytes
+2022/10/20-16:19:31.127 38f0 Compacted 1@1 + 2@2 files => 1883462 bytes
+2022/10/20-16:19:31.131 38f0 compacted to: files[ 0 2 2 0 0 0 0 ]
+2022/10/20-16:19:31.132 38f0 Delete type=2 #724
+2022/10/20-16:19:31.133 38f0 Expanding@1 1+2 (2250718+2536691 bytes) to 2+2 (2286618+2536691 bytes)
+2022/10/20-16:19:31.134 38f0 Manual compaction at level-1 from '\x00`\x01\x1f\x01\xf2\x07\x00O\x00-\x00o\x00_\x00 \x002\x000\x002\x002\x00-\x001\x000\x00-\x001\x009\x00 \x001\x000\x00:\x005\x005\x00:\x001\x002\x00.\x007\x007\x008\x00:\x00[\x00e\x00r\x00r\x00o\x00r\x00]\x00[\x00s\x00e\x00n\x00d\x00l\x00o\x00g\x00s\x00]\x00[\x00u\x00n\x00c\x00a\x00u\x00g\x00h\x00t\x00]\x00 \x00T\x00y\x00p\x00e\x00E\x00r\x00r\x00o\x00r\x00:\x00 \x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00.\x00g\x00e\x00t\x00L\x00i\x00n\x00k\x00s\x00 \x00i\x00s\x00 \x00n\x00o\x00t\x00 \x00a\x00 \x00f\x00u\x00n\x00c\x00t\x00i\x00o\x00n\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00O\x00b\x00j\x00e\x00c\x00t\x00.\x00w\x00i\x00n\x00d\x00o\x00w\x00.\x00W\x00W\x00e\x00b\x00J\x00S\x00.\x00g\x00e\x00t\x00M\x00e\x00s\x00s\x00a\x00g\x00e\x00M\x00o\x00d\x00e\x00l\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x009\x005\x00:\x003\x000\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00_\x00_\x00p\x00u\x00p\x00p\x00e\x00t\x00e\x00e\x00r\x00_\x00e\x00v\x00a\x00l\x00u\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00c\x00r\x00i\x00p\x00t\x00_\x00_\x00:\x002\x00:\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x008\x006\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x005\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00D\x00.\x00_\x00h\x00a\x00n\x00d\x00l\x00e\x00M\x00o\x00d\x00e\x00l\x00E\x00v\x00e\x00n\x00t\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x007\x004\x004\x001\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00<\x00a\x00n\x00o\x00n\x00y\x00m\x00o\x00u\x00s\x00>\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x007\x005\x00:\x007\x001\x002\x001\x009\x006\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00_\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00E\x00v\x00e\x00n\x00t\x00s\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x004\x009\x002\x004\x00)\x00\x0a\x00 \x00 \x00 \x00 \x00a\x00t\x00 \x00y\x00.\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00 \x00(\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00e\x00b\x00.\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00.\x00c\x00o\x00m\x00/\x00b\x00o\x00o\x00t\x00s\x00t\x00r\x00a\x00p\x00_\x00q\x00r\x00.\x00d\x00a\x003\x003\x00d\x00a\x009\x00c\x008\x00d\x006\x005\x00d\x00b\x00a\x009\x00e\x00f\x003\x00c\x00.\x00j\x00s\x00:\x005\x003\x00:\x004\x000\x003\x005\x008\x004\x00)\x00\x03\x00\x00\x00\x00\x00'\xb1@' @ 3883830 : 0 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 4290366 : 0
+2022/10/20-16:19:31.134 38f0 Compacting 2@1 + 2@2 files
+2022/10/20-16:19:31.437 38f0 Generated table #728@1: 2626 keys, 62035 bytes
+2022/10/20-16:19:31.437 38f0 Compacted 2@1 + 2@2 files => 62035 bytes
+2022/10/20-16:19:31.443 38f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:19:31.444 38f0 Delete type=2 #725
+2022/10/20-16:19:31.444 38f0 Delete type=2 #726
+2022/10/20-16:19:31.444 38f0 Delete type=2 #727
+2022/10/20-16:19:31.446 38f0 Manual compaction at level-1 from '\x00`\x07\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 4290366 : 0 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:19:55.259 46dc Level-0 table #730: started
+2022/10/20-16:19:55.424 46dc Level-0 table #730: 1076040 bytes OK
+2022/10/20-16:19:55.430 46dc Delete type=2 #637
+2022/10/20-16:19:55.430 46dc Delete type=2 #715
+2022/10/20-16:19:55.430 46dc Delete type=2 #718
+2022/10/20-16:19:55.431 46dc Delete type=2 #719
+2022/10/20-16:19:55.431 46dc Delete type=2 #721
+2022/10/20-16:19:55.431 46dc Delete type=0 #722
+2022/10/20-16:19:55.535 3c28 Compacting 1@1 + 1@2 files
+2022/10/20-16:19:55.791 3c28 Generated table #731@1: 13310 keys, 558726 bytes
+2022/10/20-16:19:55.791 3c28 Compacted 1@1 + 1@2 files => 558726 bytes
+2022/10/20-16:19:55.794 3c28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:19:55.795 3c28 Delete type=2 #730
+2022/10/20-16:20:10.448 2a10 Level-0 table #733: started
+2022/10/20-16:20:10.602 2a10 Level-0 table #733: 1179736 bytes OK
+2022/10/20-16:20:10.605 2a10 Delete type=2 #728
+2022/10/20-16:20:10.605 2a10 Delete type=0 #729
+2022/10/20-16:20:10.616 2a10 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:10.898 2a10 Generated table #734@1: 16802 keys, 1379998 bytes
+2022/10/20-16:20:10.898 2a10 Compacted 1@1 + 1@2 files => 1379998 bytes
+2022/10/20-16:20:10.903 2a10 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:15.834 3c28 Level-0 table #736: started
+2022/10/20-16:20:16.023 3c28 Level-0 table #736: 945873 bytes OK
+2022/10/20-16:20:16.034 3c28 Delete type=2 #731
+2022/10/20-16:20:16.034 3c28 Delete type=0 #732
+2022/10/20-16:20:16.034 3c28 Delete type=2 #733
+2022/10/20-16:20:16.059 3c28 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:16.574 3c28 Generated table #737@1: 29252 keys, 1958170 bytes
+2022/10/20-16:20:16.574 3c28 Compacted 1@1 + 1@2 files => 1958170 bytes
+2022/10/20-16:20:16.580 3c28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:41.566 2a10 Level-0 table #739: started
+2022/10/20-16:20:41.679 2a10 Level-0 table #739: 1012226 bytes OK
+2022/10/20-16:20:41.683 2a10 Delete type=2 #734
+2022/10/20-16:20:41.683 2a10 Delete type=0 #735
+2022/10/20-16:20:41.683 2a10 Delete type=2 #736
+2022/10/20-16:20:42.169 3c28 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:42.695 3c28 Generated table #740@1: 32687 keys, 2226136 bytes
+2022/10/20-16:20:42.791 3c28 Generated table #741@1: 5387 keys, 102671 bytes
+2022/10/20-16:20:42.792 3c28 Compacted 1@1 + 1@2 files => 2328807 bytes
+2022/10/20-16:20:42.797 3c28 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/20-16:20:47.604 46dc Level-0 table #743: started
+2022/10/20-16:20:47.627 46dc Level-0 table #743: 164980 bytes OK
+2022/10/20-16:20:47.635 46dc Delete type=2 #737
+2022/10/20-16:20:47.635 46dc Delete type=0 #738
+2022/10/20-16:20:47.635 46dc Delete type=2 #739
+2022/10/20-16:20:47.666 46dc Compacting 1@1 + 2@2 files
+2022/10/20-16:20:48.165 46dc Generated table #744@1: 31658 keys, 2224259 bytes
+2022/10/20-16:20:48.281 46dc Generated table #745@1: 8940 keys, 172570 bytes
+2022/10/20-16:20:48.281 46dc Compacted 1@1 + 2@2 files => 2396829 bytes
+2022/10/20-16:20:48.285 46dc compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/20-16:20:48.285 46dc Delete type=2 #743
+2022/10/20-16:20:48.286 46dc Manual compaction at level-0 from '\x00g\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:48.286 1e10 Manual compaction at level-1 from '\x00g\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:48.293 46dc Level-0 table #747: started
+2022/10/20-16:20:48.534 46dc Level-0 table #747: 818116 bytes OK
+2022/10/20-16:20:48.538 46dc Delete type=2 #740
+2022/10/20-16:20:48.538 46dc Delete type=2 #741
+2022/10/20-16:20:48.538 46dc Delete type=0 #742
+2022/10/20-16:20:48.541 46dc Manual compaction at level-0 from '\x00i\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:48.541 46dc Manual compaction at level-1 from '\x00i\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at '\x00m\x06!\x06\x09\xf8\xdb\x92\x165\xd0\xb3\xc9j\x00\x03\x00\x00\x00\x00\x00\x00\x82@' @ 4445560 : 1
+2022/10/20-16:20:48.541 46dc Compacting 1@1 + 2@2 files
+2022/10/20-16:20:49.277 46dc Generated table #748@1: 28197 keys, 2200704 bytes
+2022/10/20-16:20:49.903 46dc Generated table #749@1: 11199 keys, 215738 bytes
+2022/10/20-16:20:49.903 46dc Compacted 1@1 + 2@2 files => 2416442 bytes
+2022/10/20-16:20:50.039 46dc compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/20-16:20:50.040 46dc Delete type=2 #747
+2022/10/20-16:20:50.046 46dc Manual compaction at level-1 from '\x00m\x06!\x06\x09\xf8\xdb\x92\x165\xd0\xb3\xc9j\x00\x03\x00\x00\x00\x00\x00\x00\x82@' @ 4445560 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:50.438 2a10 Level-0 table #751: started
+2022/10/20-16:20:50.460 2a10 Level-0 table #751: 147252 bytes OK
+2022/10/20-16:20:50.464 2a10 Delete type=2 #744
+2022/10/20-16:20:50.464 2a10 Delete type=2 #745
+2022/10/20-16:20:50.464 2a10 Delete type=0 #746
+2022/10/20-16:20:50.467 2a10 Manual compaction at level-0 from '\x00l\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00m\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:50.467 2a10 Manual compaction at level-1 from '\x00l\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00m\x00\x00\x00' @ 0 : 0; will stop at '\x00p\x00\x00\x05' @ 4466654 : 1
+2022/10/20-16:20:50.467 2a10 Compacting 1@1 + 2@2 files
+2022/10/20-16:20:50.900 2a10 Generated table #752@1: 31169 keys, 1933799 bytes
+2022/10/20-16:20:50.900 2a10 Compacted 1@1 + 2@2 files => 1933799 bytes
+2022/10/20-16:20:50.904 2a10 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:50.904 2a10 Delete type=2 #751
+2022/10/20-16:20:50.905 2a10 Manual compaction at level-1 from '\x00p\x00\x00\x05' @ 4466654 : 1 .. '\x00m\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:50.907 2a10 Level-0 table #754: started
+2022/10/20-16:20:50.925 2a10 Level-0 table #754: 562 bytes OK
+2022/10/20-16:20:50.929 2a10 Delete type=2 #748
+2022/10/20-16:20:50.929 2a10 Delete type=2 #749
+2022/10/20-16:20:50.929 2a10 Delete type=0 #750
+2022/10/20-16:20:50.932 3c28 Manual compaction at level-0 from '\x00n\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:50.932 3c28 Manual compaction at level-1 from '\x00n\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at '\x00n\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4476376 : 0
+2022/10/20-16:20:50.932 3c28 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:51.265 3c28 Generated table #755@1: 31140 keys, 1933331 bytes
+2022/10/20-16:20:51.265 3c28 Compacted 1@1 + 1@2 files => 1933331 bytes
+2022/10/20-16:20:51.326 3c28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:51.330 3c28 Delete type=2 #754
+2022/10/20-16:20:51.331 2a10 Manual compaction at level-1 from '\x00n\x00\x00\xc8\x13\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00m\x00e\x00t\x00a\x00-\x00i\x00n\x00f\x00o' @ 4476376 : 0 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:51.333 3344 Level-0 table #757: started
+2022/10/20-16:20:51.405 3344 Level-0 table #757: 616 bytes OK
+2022/10/20-16:20:51.435 3344 Delete type=2 #752
+2022/10/20-16:20:51.435 3344 Delete type=0 #753
+2022/10/20-16:20:51.436 3344 Manual compaction at level-0 from '\x00k\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00l\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:51.436 3344 Manual compaction at level-1 from '\x00k\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00l\x00\x00\x00' @ 0 : 0; will stop at '\x00k\x00\x00\xc8\x13\x00p\x00e\x00n\x00d\x00i\x00n\x00g\x00-\x00d\x00e\x00v\x00i\x00c\x00e\x00-\x00s\x00y\x00n\x00c' @ 4476410 : 0
+2022/10/20-16:20:51.436 3344 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:51.785 3344 Generated table #758@1: 31106 keys, 1933779 bytes
+2022/10/20-16:20:51.785 3344 Compacted 1@1 + 1@2 files => 1933779 bytes
+2022/10/20-16:20:51.794 3344 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:51.795 3344 Delete type=2 #757
+2022/10/20-16:20:51.795 3344 Manual compaction at level-1 from '\x00k\x00\x00\xc8\x13\x00p\x00e\x00n\x00d\x00i\x00n\x00g\x00-\x00d\x00e\x00v\x00i\x00c\x00e\x00-\x00s\x00y\x00n\x00c' @ 4476410 : 0 .. '\x00l\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:52.032 3344 Level-0 table #760: started
+2022/10/20-16:20:52.050 3344 Level-0 table #760: 149590 bytes OK
+2022/10/20-16:20:52.055 3344 Delete type=2 #755
+2022/10/20-16:20:52.055 3344 Delete type=0 #756
+2022/10/20-16:20:52.056 3344 Manual compaction at level-0 from '\x00m\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:52.056 3344 Manual compaction at level-1 from '\x00m\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at '\x00m\x06!\x06\x09\xff\xf2\xc9\xd4\xab\x11\xf2J}\x00\x03\x00\x00\x00\x00\x00\x00I@' @ 4488484 : 0
+2022/10/20-16:20:52.056 3344 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:52.376 3344 Generated table #761@1: 19032 keys, 1618508 bytes
+2022/10/20-16:20:52.376 3344 Compacted 1@1 + 1@2 files => 1618508 bytes
+2022/10/20-16:20:52.379 3344 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:52.380 3344 Delete type=2 #760
+2022/10/20-16:20:52.380 3344 Manual compaction at level-1 from '\x00m\x06!\x06\x09\xff\xf2\xc9\xd4\xab\x11\xf2J}\x00\x03\x00\x00\x00\x00\x00\x00I@' @ 4488484 : 0 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:52.939 3344 Level-0 table #763: started
+2022/10/20-16:20:52.999 3344 Level-0 table #763: 542407 bytes OK
+2022/10/20-16:20:53.003 3344 Delete type=2 #758
+2022/10/20-16:20:53.003 3344 Delete type=0 #759
+2022/10/20-16:20:53.005 3344 Manual compaction at level-0 from '\x00j\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/20-16:20:53.005 3344 Manual compaction at level-1 from '\x00j\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at '\x00j.\x02\x01\x17\x00W\x00A\x00U\x00n\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00C\x00h\x00a\x00t\x00s\x00S\x00e\x00t\x00t\x00i\x00n\x00g' @ 4506534 : 0
+2022/10/20-16:20:53.005 3344 Compacting 1@1 + 1@2 files
+2022/10/20-16:20:53.165 3344 Generated table #764@1: 982 keys, 65005 bytes
+2022/10/20-16:20:53.165 3344 Compacted 1@1 + 1@2 files => 65005 bytes
+2022/10/20-16:20:53.169 3344 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/20-16:20:53.169 3344 Delete type=2 #763
+2022/10/20-16:20:53.170 3344 Manual compaction at level-1 from '\x00j.\x02\x01\x17\x00W\x00A\x00U\x00n\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00C\x00h\x00a\x00t\x00s\x00S\x00e\x00t\x00t\x00i\x00n\x00g' @ 4506534 : 0 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at (end)

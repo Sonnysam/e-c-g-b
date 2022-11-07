@@ -1,0 +1,2 @@
+Meme: https://meme.api.herokuapp.com/gimme
+Joke: https://v2.jokeapi.dev/joke/Any?safe-mode
