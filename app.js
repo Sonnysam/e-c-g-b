@@ -14,25 +14,24 @@ const { default: word } = require("random-words");
 var weather = require("weather-js");
 const randomVerse = require("random-verse");
 
-  // `
-  //     Oops my weather api is NA currently.😒 
-  //     I'll try and let you know whether to take an umbrella along or not
-  //     if you need help feel free 😁 to enter *!help*
-  //     Remmember me when you're eating gob3 🤖
-  //   `;
-   //=========== Send a new message to the same chat ==========☁🌧🌨🌩⛅🌤🌪⛈🌬🌫🌦🌥
-  // setTimeout(
-  //   () =>
-  //     function () {
-  //       client.sendMessage(
-  //         msg.from,
-  //         `
-  //   Read something before the day ends. Do you know why they say Ewe's are wicked?
-  //   Well there's something I know about the weather ⛅ in Accra. It's 26 degrees celcius (scattered clouds)
-  // `)},
-  //   20000
-  // );
-
+// `
+//     Oops my weather api is NA currently.😒
+//     I'll try and let you know whether to take an umbrella along or not
+//     if you need help feel free 😁 to enter *!help*
+//     Remmember me when you're eating gob3 🤖
+//   `;
+//=========== Send a new message to the same chat ==========☁🌧🌨🌩⛅🌤🌪⛈🌬🌫🌦🌥
+// setTimeout(
+//   () =>
+//     function () {
+//       client.sendMessage(
+//         msg.from,
+//         `
+//   Read something before the day ends. Do you know why they say Ewe's are wicked?
+//   Well there's something I know about the weather ⛅ in Accra. It's 26 degrees celcius (scattered clouds)
+// `)},
+//   20000
+// );
 
 const myGroupName = "Extrapolates v2.0";
 // const myGroupName = "Test";
@@ -52,40 +51,44 @@ client.on("ready", () => {
   console.log("Client is ready!");
 });
 
+   client.getChats().then((chats) => {
+     myGroup = chats.find((chat) => chat.name === myGroupName);
+
+     const productsList = new List(
+       "Please select the time you want the group bot to be alive",
+       "View available times",
+       [
+         {
+           title: "Time (Please select just one)",
+           rows: [
+             { id: "morning", title: "Morning" },
+             { id: "afternoon", title: "Afternoon" },
+             { id: "evening", title: "Evening" },
+           ],
+         },
+       ],
+       "Please vote"
+     );
+     client.sendMessage(myGroup.id._serialized, productsList);
+   });
+
 client.on("message", async (msg) => {
   console.log("MESSAGE RECEIVED", msg);
-    client.getChats().then((chats) => {
-      myGroup = chats.find((chat) => chat.name === myGroupName);
+ 
 
-      const productsList = new List(
-        "Please select the time you want the group bot to be alive",
-        "View available times",
-        [
-          {
-            title: "Time (Please select just one)",
-            rows: [
-              { id: "morning", title: "Morning" },
-              { id: "afternoon", title: "Afternoon" },
-              { id: "evening", title: "Evening" },
-            ],
-          },
-        ],
-        "Please vote"
-      );
-      client.sendMessage(myGroup.id._serialized, productsList);
-    });
-    
-     if (msg.body === "!vote") {
-       msg.reply(`You've voted ${msg.body} successfully ✅`);
-     }
-  else if (msg.body === "!bot") {
+  if (msg.type === "!vote") {
+    msg.reply(`You voted ${msg.body} successfully ✅`);
+  }
+
+  if (msg.body === "!bot") {
     // Send a new message as a reply to the current one
     msg.reply(`
         - I am alive 🚀✅ 
         - Do you need help? 🧐
         - Use *!help* to access commands list
+        - Dm (Sonny) Agbenyo if you want to help maintain me 😇
         - Please type my commands like this *Eg:![cmd-in-lowercase]* 
-        - No worries if I respond late. It's because I don't have *gob3~net* in my belly (internet)\n 
+        - My favourite food *gob3~net* (internet)\n 
         *Don't forget to eat gob3 today 😋*
         `);
   } else if (msg.body === "!word") {
@@ -144,16 +147,15 @@ client.on("message", async (msg) => {
     await chat.sendMessage(text, { mentions });
   } else if (msg.body === "!weather") {
     const details = JSON.stringify(result, null, 2);
-      weather.find(
-        { search: "Accra, Ghana", degreeType: "C" },
-        function (err, result) {
-          if (err) console.log(err);
+    weather.find(
+      { search: "Accra, Ghana", degreeType: "C" },
+      function (err, result) {
+        if (err) console.log(err);
 
-          console.log(JSON.stringify(result, null, 2));
-        }
-      );
+        console.log(JSON.stringify(result, null, 2));
+      }
+    );
     msg.reply(details);
-  
   } else if (msg.body === "!chats") {
     const chats = await client.getChats();
     client.sendMessage(msg.from, `I hasve ${chats.length} chats open.`);
@@ -188,7 +190,6 @@ client.on("message", async (msg) => {
         jokeMsg.reply(joke.delivery);
       }, 1000);
   }
-
 });
 
 client.initialize();
