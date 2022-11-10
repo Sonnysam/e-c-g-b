@@ -12,6 +12,7 @@ var wd = require("word-definition");
 var randomWords = require("random-words");
 const { default: word } = require("random-words");
 var weather = require("weather-js");
+const randomVerse = require("random-verse");
 
   // `
   //     Oops my weather api is NA currently.😒 
@@ -91,6 +92,8 @@ client.on("message", async (msg) => {
     client.sendMessage(msg.from, randomWords());
   } else if (msg.body === "!facts") {
     client.sendMessage(msg.from, rf.randomFact());
+  } else if (msg.body === "!verse") {
+    client.sendMessage(msg.from, randomVerse());
   } else if (msg.body === "!help") {
     // Send a new message to the same chat
     client.sendMessage(
@@ -105,6 +108,7 @@ client.on("message", async (msg) => {
         *!everyone*: mentions or tags everyone
         *!facts*: generates random facts
         *!word*: generates random facts
+        *!verse*: generates random bible verse
         *!chats*: displays number opened chats\n
         *More commands coming soon 😁*
         `
