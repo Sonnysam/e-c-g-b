@@ -1,5 +1,33 @@
-[1020/162118.093:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~bootstrap_qr.1428ec3218c5d65750d1.js (7)
-[1020/162123.235:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[1020/162155.212:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[1020/162155.741:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[1020/162235.105:INFO:CONSOLE(295)] "Uncaught TypeError: message.getLinks is not a function", source: __puppeteer_evaluation_script__ (295)
+[1110/205710.039:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1110/205737.868:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1110/205737.868:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\GPUCache to C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\old_GPUCache_000
+[1110/205737.868:ERROR:disk_cache.cc(192)] Unable to create cache
+[1110/205737.868:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1110/205739.889:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1110/205739.889:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\Cache\Cache_Data to C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[1110/205739.889:ERROR:disk_cache.cc(192)] Unable to create cache
+[1110/205740.893:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[1110/205746.945:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[1110/205749.843:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[1110/205751.874:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1110/205751.874:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1110/205755.966:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1110/205758.001:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1110/205758.001:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1110/205802.043:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1110/205858.846:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1110/205858.846:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\GPUCache to C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\old_GPUCache_000
+[1110/205858.846:ERROR:disk_cache.cc(192)] Unable to create cache
+[1110/205858.846:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1110/205900.878:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1110/205900.878:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\Cache\Cache_Data to C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[1110/205900.878:ERROR:disk_cache.cc(192)] Unable to create cache
+[1110/205901.881:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[1110/205907.734:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[1110/205910.659:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[1110/205912.677:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1110/205912.677:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1110/205916.750:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1110/205918.822:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1110/205918.822:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1110/205922.882:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.

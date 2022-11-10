@@ -13,6 +13,7 @@ var randomWords = require("random-words");
 const { default: word } = require("random-words");
 var weather = require("weather-js");
 const randomVerse = require("random-verse");
+var quoteGenerator = require("random-quote-generator");
 
 // `
 //     Oops my weather api is NA currently.😒
@@ -49,50 +50,44 @@ client.on("qr", (qr) => {
 
 client.on("ready", () => {
   console.log("Client is ready!");
+  client.getChats().then((chats) => {
+    myGroup = chats.find((chat) => chat.name === myGroupName);
+
+    const productsList = new List(
+      "Please select the time you want the group bot to be alive",
+      "View available times",
+      [
+        {
+          title: "Time (Please select just one)",
+          rows: [
+            { id: "morning", title: "Morning" },
+            { id: "afternoon", title: "Afternoon" },
+            { id: "evening", title: "Evening" },
+          ],
+        },
+      ],
+      "Please vote"
+    );
+    client.sendMessage(myGroup.id._serialized, productsList);
+  });
 });
 
-   client.getChats().then((chats) => {
-     myGroup = chats.find((chat) => chat.name === myGroupName);
-
-     const productsList = new List(
-       "Please select the time you want the group bot to be alive",
-       "View available times",
-       [
-         {
-           title: "Time (Please select just one)",
-           rows: [
-             { id: "morning", title: "Morning" },
-             { id: "afternoon", title: "Afternoon" },
-             { id: "evening", title: "Evening" },
-           ],
-         },
-       ],
-       "Please vote"
-     );
-     client.sendMessage(myGroup.id._serialized, productsList);
-   });
-
 client.on("message", async (msg) => {
-  console.log("MESSAGE RECEIVED", msg);
- 
-
-  if (msg.type === "!vote") {
-    msg.reply(`You voted ${msg.body} successfully ✅`);
-  }
-
-  if (msg.body === "!bot") {
-    // Send a new message as a reply to the current one
+  if (msg.type === "list_response") {
+    msg.reply(`You've voted ${msg.body} successfully ✅`);
+  } else if (msg.body === "!bot") {
     msg.reply(`
-        - I am alive 🚀✅ 
-        - Do you need help? 🧐
-        - Use *!help* to access commands list
-        - Dm (Sonny) Agbenyo if you want to help maintain me 😇
-        - Please type my commands like this *Eg:![cmd-in-lowercase]* 
-        - My favourite food *gob3~net* (internet)\n 
+         I am alive 🚀✅ 
+         Do you need help? 🧐
+         Use *!help* to access command list 📃
+         Dm (Sonny) Agbenyo if you want to help maintain me 😇 
+         I need *gob3~net* to survive 😪\n 
         *Don't forget to eat gob3 today 😋*
         `);
   } else if (msg.body === "!word") {
     client.sendMessage(msg.from, randomWords());
+  } else if (msg.body === "!quote") {
+    client.sendMessage(msg.from, quoteGenerator.generateAQuote());
   } else if (msg.body === "!facts") {
     client.sendMessage(msg.from, rf.randomFact());
   } else if (msg.body === "!verse") {
@@ -111,8 +106,8 @@ client.on("message", async (msg) => {
         *!everyone*: mentions or tags everyone
         *!facts*: generates random facts
         *!word*: generates random facts
-        *!verse*: generates random bible verse
-        *!chats*: displays number opened chats\n
+        *!quote*: generates random quotes
+        *!verse*: generates random bible verse\n
         *More commands coming soon 😁*
         `
     );

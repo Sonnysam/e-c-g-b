@@ -1,3 +1,4 @@
-2022/10/20-16:21:17.321 41e4 Reusing MANIFEST C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001
-2022/10/20-16:21:17.322 41e4 Recovering log #3
-2022/10/20-16:21:17.323 41e4 Reusing old log C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/000003.log 
+2022/11/10-20:59:19.853 1f48 Log #3: 3 ops saved to Table #4 OK
+2022/11/10-20:59:20.866 1f48 Archiving C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/000003.log: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2022/11/10-20:59:20.867 1f48 Table #4: 3 entries OK
+2022/11/10-20:59:21.873 1f48 Archiving C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001: IO error: C:\Users\user\OneDrive\Desktop\extrapolate-bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
