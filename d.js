@@ -64,3 +64,28 @@ client.initialize();
 //     );
 //     client.sendMessage(myGroup.id._serialized, productsList);
 //   });
+
+
+
+
+// `
+//     Oops my weather api is NA currently.😒
+//     I'll try and let you know whether to take an umbrella along or not
+//     if you need help feel free 😁 to enter *!help*
+//     Remmember me when you're eating gob3 🤖
+//   `;
+//=========== Send a new message to the same chat ==========☁🌧🌨🌩⛅🌤🌪⛈🌬🌫🌦🌥
+// setTimeout(
+//   () =>
+//     function () {
+//       client.sendMessage(
+//         msg.from,
+//         `
+//   Read something before the day ends. Do you know why they say Ewe's are wicked?
+//   Well there's something I know about the weather ⛅ in Accra. It's 26 degrees celcius (scattered clouds)
+// `)},
+//   20000
+// );
+
+// const myGroupName = "Extrapolates v2.0";
+// const myGroupName = "Test";
