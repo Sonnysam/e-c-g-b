@@ -42,3 +42,25 @@ client.on("message", (message) => {
 });
 
 client.initialize();
+
+
+//   client.getChats().then((chats) => {
+//     myGroup = chats.find((chat) => chat.name === myGroupName);
+
+//     const productsList = new List(
+//       "Please select the time you want the group bot to be alive",
+//       "View available times",
+//       [
+//         {
+//           title: "Time (Please select just one)",
+//           rows: [
+//             { id: "morning", title: "Morning" },
+//             { id: "afternoon", title: "Afternoon" },
+//             { id: "evening", title: "Evening" },
+//           ],
+//         },
+//       ],
+//       "Please vote"
+//     );
+//     client.sendMessage(myGroup.id._serialized, productsList);
+//   });

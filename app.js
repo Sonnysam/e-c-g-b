@@ -34,7 +34,7 @@ var quoteGenerator = require("random-quote-generator");
 //   20000
 // );
 
-const myGroupName = "Extrapolates v2.0";
+// const myGroupName = "Extrapolates v2.0";
 // const myGroupName = "Test";
 
 const client = new Client();
@@ -42,7 +42,7 @@ const client = new Client();
 //   authStrategy: new LocalAuth(),
 // });
 
-console.log(rf.randomFact()); // Random fact
+console.log(rf.randomFact());
 
 client.on("qr", (qr) => {
   qrcode.generate(qr, { small: true });
@@ -50,26 +50,6 @@ client.on("qr", (qr) => {
 
 client.on("ready", () => {
   console.log("Client is ready!");
-  client.getChats().then((chats) => {
-    myGroup = chats.find((chat) => chat.name === myGroupName);
-
-    const productsList = new List(
-      "Please select the time you want the group bot to be alive",
-      "View available times",
-      [
-        {
-          title: "Time (Please select just one)",
-          rows: [
-            { id: "morning", title: "Morning" },
-            { id: "afternoon", title: "Afternoon" },
-            { id: "evening", title: "Evening" },
-          ],
-        },
-      ],
-      "Please vote"
-    );
-    client.sendMessage(myGroup.id._serialized, productsList);
-  });
 });
 
 client.on("message", async (msg) => {

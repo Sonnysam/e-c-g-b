@@ -16,7 +16,7 @@
     "random-quote-generator": "^1.2.2",
     "random-verse": "^1.0.1",
     "weather-js": "^2.0.0",
-    "whatsapp-web.js": "^1.18.2"
+    "whatsapp-web.js": "^1.18.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.20",
