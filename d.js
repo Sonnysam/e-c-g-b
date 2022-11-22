@@ -21,7 +21,7 @@ client.on("ready", () => {
       "View all products",
       [
         {
-          title: "Products list",
+          title: "Products lists",
           rows: [
             { id: "apple", title: "Apple" },
             { id: "mango", title: "Mango" },

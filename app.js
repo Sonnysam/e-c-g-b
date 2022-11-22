@@ -31,7 +31,7 @@ var quoteGenerator = require("random-quote-generator");
 //   Read something before the day ends. Do you know why they say Ewe's are wicked?
 //   Well there's something I know about the weather ⛅ in Accra. It's 26 degrees celcius (scattered clouds)
 // `)},
-//   20000
+//   2000
 // );
 
 // const myGroupName = "Extrapolates v2.0";
