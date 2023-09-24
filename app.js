@@ -14,6 +14,7 @@ const { default: word } = require("random-words");
 var weather = require("weather-js");
 const randomVerse = require("random-verse");
 var quoteGenerator = require("random-quote-generator");
+const YouVersion = require("@glowstudent/youversion");
 
 // `
 //     Oops my weather api is NA currently.😒
@@ -60,9 +61,9 @@ client.on("message", async (msg) => {
          I am alive 🚀✅ 
          Do you need help? 🧐
          Use *!help* to access command list 📃
-         Dm (Sonny) Agbenyo if you want to help maintain me 😇 
-         I need *gob3~net* to survive 😪\n 
-        *Don't forget to eat gob3 today 😋*
+         Sonny if you want to help maintain me 😇 
+         I need *prayer-net* to survive 😪\n 
+        *Don't forget to eat pray today 😋*
         `);
   } else if (msg.body === "!word") {
     client.sendMessage(msg.from, randomWords());
@@ -78,16 +79,13 @@ client.on("message", async (msg) => {
       msg.from,
       ` 
         *!meme* displays a random meme
-        *!vote* displays a poll for users
         *!bot*: checks if I'm awake
         *!joke*: displays a random joke
-        *!groupinfo*: display group info
         *!weather*: displays current weather in Accra
         *!everyone*: mentions or tags everyone
         *!facts*: generates random facts
-        *!word*: generates random facts
         *!quote*: generates random quotes
-        *!verse*: generates random bible verse\n
+        *!verse*: generates verse of the day\n
         *More commands coming soon 😁*
         `
     );
@@ -164,6 +162,18 @@ client.on("message", async (msg) => {
       setTimeout(function () {
         jokeMsg.reply(joke.delivery);
       }, 1000);
+  }
+
+  //verse of the day section
+  else if (msg.body === "!verse") {
+    const verse = await axios(
+      "https://beta.ourmanna.com/api/v1/get/?format=json"
+    ).then((res) => res.data);
+    // (async () => {
+    //   console.log(await YouVersion.getVerseOfTheDay());
+    // })();
+
+    client.sendMessage(msg.from, verse.verse.details.text);
   }
 });
 
